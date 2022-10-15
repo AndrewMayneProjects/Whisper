@@ -1,5 +1,6 @@
 This is the repo for my OpenAI Whisper transcription notebooks
 
+<hr>
 <h3>Whisper YouTube transcription notebook</h3>
 This takes a YouTube video url and generates a high quality transcript you can upload to YouTube with autosync.
 
@@ -7,7 +8,9 @@ This takes a YouTube video url and generates a high quality transcript you can u
 
 Click here to go to the: <a href="https://github.com/AndrewMayneProjects/Whisper/blob/main/WhisperYouTube.ipynb">Whisper YouTube notebook</a>
 
-<h3>Whisper Google Drive notebook</h3>
+<hr>
+
+<h3>Whisper Google Drive audio transcription notebook</h3>
 This connects to your Google Drive and will batch process audio files uploaded to /WhisperAudio
 <br>
 <br>
