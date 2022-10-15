@@ -5,8 +5,10 @@ This is the repo for my OpenAI Whisper transcription notebooks
 This takes a YouTube video url and generates a high quality transcript you can upload to YouTube with autosync.
 
 <br>
-**Getting started video: https://youtu.be/kENRf82_RQs**
-
+<br>
+Getting started video: https://youtu.be/kENRf82_RQs
+<br>
+<br>
 Click here to go to the: <a href="https://github.com/AndrewMayneProjects/Whisper/blob/main/WhisperYouTube.ipynb">Whisper YouTube notebook</a>
 
 <hr>
