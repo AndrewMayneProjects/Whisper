@@ -10,10 +10,10 @@ Click here to go to the <a href="https://github.com/AndrewMayneProjects/Whisper/
 <h3>Whisper Google Drive</h3>
 This connects to your Google Drive and will batch process audio files uploaded to /WhisperAudio
 
-Click here to go to the <a href="https://github.com/AndrewMayneProjects/Whisper/blob/main/WhisperYouTube.ipynb"> Whisper Google Drive notebook</a>
+Click here to go to the <a href="https://github.com/AndrewMayneProjects/Whisper/blob/main/WhisperGoogleDrive.ipynb"> Whisper Google Drive notebook</a>
 
 <br>
-<br>
+ 
 
 <a href="https://openai.com/blog/whisper/">Information on OpenAI's Whisper model</a>
 
