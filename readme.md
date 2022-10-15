@@ -1,4 +1,4 @@
-#**Creating YouTube transcripts with OpenAI's Whisper model** 
+<h2>Creating YouTube transcripts with OpenAI's Whisper model</h2>
  
 
 ###**Note: For faster performance set your runtime to "GPU"**
