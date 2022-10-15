@@ -1,10 +1,10 @@
 <h2>Creating YouTube transcripts with OpenAI's Whisper model</h2>
- 
 
-###**Note: For faster performance set your runtime to "GPU"**
+**Note: For faster performance set your runtime to "GPU"**
 (Click on "Runtime" in the menu and click "Change runtime type".
 
-<br> 
+---
+
 **Step 1.** Follow the instructions in each block and select the options you want\
 **Step 2.** Grab the url of the video you want to transcribe\
 **Step 3.** Click the run button on the left side of the box below\
@@ -14,10 +14,6 @@
 That's it!
 
 Have a question? Hit me up on Twitter: @AndrewMayne
-
-<br>
-
-
 
 ---
 
