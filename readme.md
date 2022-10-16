@@ -28,6 +28,9 @@ Click here to go to the: <a href="https://github.com/AndrewMayneProjects/Whisper
 This connects to your Google Drive and will batch process video files uploaded to /WhisperVideo
 <br>
 <br>
+Getting started video: https://youtu.be/YGpYinji7II
+<br>
+<br>
 Click here to go to the: <a href="https://github.com/AndrewMayneProjects/Whisper/blob/main/WhisperVideoDrive.ipynb"> Whisper Google Drive Video notebook</a>
 <hr>
  
