@@ -33,6 +33,15 @@ Getting started video: https://youtu.be/YGpYinji7II
 <br>
 Click here to go to the: <a href="https://github.com/AndrewMayneProjects/Whisper/blob/main/WhisperVideoDrive.ipynb"> Whisper Google Drive Video notebook</a>
 <hr>
+
+<hr>
+
+<h3>🔤 Whisper Google Drive Video SRT Transcription Python Notebook</h3>
+Same as the one above but outputs an SRT file with timestamps
+<br>
+<br>
+Click here to go to the: <a href="/WhisperVideoDriveSRT.ipynb"> Whisper Google Drive Video SRT notebook</a>
+<hr>
  
 
 <a href="https://openai.com/blog/whisper/">Information on OpenAI's Whisper model</a>
